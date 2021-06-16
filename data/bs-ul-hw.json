@@ -21,9 +21,8 @@
  "beamsweep" : false,
  "beacon_antenna" : 0,
  "frames" : [
-     "BGGGGGPPGGUUUG"
+     "BGGGGGPGGUUUG"
  ],
- "downlink_mode": false,
  "client_ul_pilot_syms" : 2,
  "worker_thread_num" : 20,
  "demul_block_size" : 48
